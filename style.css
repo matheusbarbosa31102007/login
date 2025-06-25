@@ -7,6 +7,6 @@ position: absolute;
 top: 50%;
 left:50%;
 transform: translate(-50%, -50%);
-pad: 80px;
+padding: 80px;
 border-radius: 15px;
 color: white;
